@@ -77,7 +77,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-salah-afzal-27860031a">LinkedIn</a> •
-<a href="https://mohammedsalahafzal.netlify.app">Portfolio</a> •
+<a href="https://incredible-speculoos-6282ce.netlify.app/">Portfolio</a> •
 <a href="https://github.com/MohammedSalahAfzal">GitHub</a>
 </p>
 
