@@ -1,19 +1,19 @@
-
+ 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071a24,50:087e8b,100:20c9b5&text=MOHAMMED%20SALAH%20AFZAL&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20MACHINE%20LEARNING%20%7C%20PYTHON&descSize=14&descAlignY=58&animation=fadeIn" alt="Animated teal profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,40:090979,100:00D4FF&text=Mohammed%20Salah%20Afzal&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=58&animation=twinkling" alt="Animated profile header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=36CFC9&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Data+Analyst+%7C+Junior+Data+Scientist;Python+%7C+SQL+%7C+Power+BI;Building+projects+with+data+and+AI;Turning+data+into+meaningful+insights" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Insights;Building+Machine+Learning+Projects;Exploring+NLP+and+Deep+Learning;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Learn+Every+Day.+Build+Every+Day." alt="Animated typing introduction"/>
 </a>
 
-<p>
-<a href="https://github.com/MohammedSalahAfzal"><img src="https://img.shields.io/badge/GitHub-MohammedSalahAfzal-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mohammed-salah-afzal-27860031a"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://incredible-speculoos-6282ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=MohammedSalahAfzal&style=flat-square&color=14b8a6&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=MohammedSalahAfzal&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/MohammedSalahAfzal?style=for-the-badge&logo=github&label=Followers&color=6366f1" alt="GitHub followers"/>
+
+<img src="https://img.shields.io/badge/Focus-Data%20Science-00D4FF?style=for-the-badge" alt="Data Science focus"/>
 
 </div>
 
@@ -21,142 +21,127 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Mohammed Salah Afzal**, a Computer Science Engineering graduate passionate about data, analytics, and intelligent applications.
+Hello! I'm **Mohammed Salah Afzal**, a Computer Science and Engineering graduate passionate about Data Science, Data Analytics, and Machine Learning.
 
-- 📊 Interested in Data Analytics, Business Intelligence, and Machine Learning
-- 🐍 Exploring data-driven solutions using Python and SQL
-- 📈 Building dashboards and visualizations with Power BI
-- 🧠 Developing projects involving NLP, LSTM, and predictive modeling
-- 🎓 Pursuing Data Science training at TEKS Academy, Hyderabad
-- 📍 Hyderabad, Telangana, India
-- 🎯 Goal: Build practical solutions that transform data into actionable insights
+- 🔭 Building practical projects using Python, SQL, and Machine Learning.
+- 📊 Exploring data analysis, visualization, and business intelligence.
+- 🤖 Interested in NLP, LSTM networks, and Deep Learning.
+- 🐍 Working with Pandas, NumPy, Matplotlib, and Seaborn.
+- 📈 Creating dashboards and extracting meaningful insights.
+- 🎓 Pursuing Data Science training at TEKS Academy, Hyderabad.
+- 🎯 Career interests: Data Scientist, Data Analyst, and Junior ML Engineer.
+- 📍 Hyderabad, Telangana, India.
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://github.com/MohammedSalahAfzal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammed-salah-afzal-27860031a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://incredible-speculoos-6282ce.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming & Development
+<div align="center">
 
-<p align="left">
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="45" alt="Flask"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="TensorFlow"/></a>
-</p>
+### 💻 Programming Languages & Development
 
-### 📊 Data Analytics & Visualization
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask&theme=dark" alt="Programming and development tools"/>
 
-<p align="left">
+### 📊 Data Analysis & Business Intelligence
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
+<img src="https://img.shields.io/badge/EDA-008B8B?style=for-the-badge" alt="Exploratory Data Analysis"/>
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & Artificial Intelligence
 
-<p align="left">
-<img src="https://img.shields.io/badge/Machine_Learning-0D9488?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/NLP-115E59?style=for-the-badge" alt="Natural Language Processing"/>
-<img src="https://img.shields.io/badge/Deep_Learning-164E63?style=for-the-badge" alt="Deep Learning"/>
-</p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/NLP-5A45FF?style=for-the-badge" alt="Natural Language Processing"/>
+<img src="https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge" alt="LSTM"/>
+<img src="https://img.shields.io/badge/Statistics-007ACC?style=for-the-badge" alt="Statistics"/>
+<img src="https://img.shields.io/badge/Deep_Learning-FF4B4B?style=for-the-badge" alt="Deep Learning"/>
+
+### 📓 Data Science Tools
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧠 1. Multiclass Mental Illness Prediction Using NLP & LSTM
 
-### 🧠 Mental Illness Prediction
+- Developed a text-classification project using Natural Language Processing and LSTM techniques.
+- Explores text classification across Depression, Anxiety, Bipolar Disorder, and PTSD categories.
+- **Tech stack:** Python, NLP, TensorFlow/Keras, LSTM, Flask, SQLite.
+- [View my repositories](https://github.com/MohammedSalahAfzal?tab=repositories)
 
-NLP and LSTM-based text classification project exploring mental-health-related text categories.
+### 🎓 2. Student Intelligence System
 
-**Technologies**
-- Python
-- NLP and LSTM
-- TensorFlow / Keras
-- Flask and SQLite
+- Analyzes student academic performance, attendance, and behavioral indicators.
+- Uses data processing and analytical techniques to derive student insights.
+- **Tech stack:** Python, Pandas, NumPy, SQL, Machine Learning, Flask, Power BI.
+- [View my repositories](https://github.com/MohammedSalahAfzal?tab=repositories)
 
-<a href="https://github.com/MohammedSalahAfzal?tab=repositories">Explore repositories →</a>
+### 📊 3. Supermarket Sales Dashboard
 
-</td>
-<td width="50%" valign="top">
+- Analyzes sales, quantity, average sales, ratings, and tax metrics.
+- Presents key business performance indicators in a dashboard.
+- **Tech stack:** Power BI, Excel, Data Visualization.
+- [View my repositories](https://github.com/MohammedSalahAfzal?tab=repositories)
 
-### 🎓 Student Intelligence System
+### 🗄️ 4. SQL Sales Analysis
 
-A student-focused analytics project covering academic performance, attendance, and behavior.
+- Uses SQL queries to explore sales records and summarize business performance.
+- **Tech stack:** SQL, MySQL, filtering, grouping, and aggregations.
+- [View my repositories](https://github.com/MohammedSalahAfzal?tab=repositories)
 
-**Technologies**
-- Python, Pandas, NumPy
-- SQL and Machine Learning
-- Flask
-- Power BI
+### 🐍 5. Python Data Analysis
 
-<a href="https://github.com/MohammedSalahAfzal?tab=repositories">Explore repositories →</a>
+- Performs data cleaning, exploratory data analysis, and visualization.
+- **Tech stack:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+- [View my repositories](https://github.com/MohammedSalahAfzal?tab=repositories)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🎬 6. Netflix Data Analysis
 
-### 🛒 Supermarket Sales Dashboard
+- Explores content data to identify trends and patterns.
+- **Tech stack:** Python, Pandas, Matplotlib, Seaborn.
+- [View my repositories](https://github.com/MohammedSalahAfzal?tab=repositories)
 
-A business intelligence dashboard for exploring sales performance and key business metrics.
+### 🏠 7. Airbnb NYC Analysis
 
-**Focus areas**
-- Total sales and quantity
-- Average sales and ratings
-- Tax and business insights
+- Explores New York City Airbnb listings and pricing patterns.
+- **Tech stack:** Python, Pandas, NumPy, Data Visualization.
+- [View my repositories](https://github.com/MohammedSalahAfzal?tab=repositories)
 
-**Tools:** Power BI, Data Visualization
+### 🎯 8. Student Performance Analysis
 
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ SQL Sales Analysis
-
-A practical SQL project focused on querying data and answering business questions.
-
-**Focus areas**
-- Filtering and sorting
-- Aggregations and grouping
-- Business-oriented queries
-
-**Tools:** SQL, MySQL
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Python Data Analysis
-
-Data cleaning, exploratory analysis, and visualization using Python.
-
-**Tools:** Python, Pandas, NumPy, Matplotlib
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Exploratory Data Analysis
-
-Explore datasets such as Netflix, Airbnb, and student performance to discover trends and patterns.
-
-**Tools:** Python, Pandas, Seaborn, Matplotlib
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<a href="https://github.com/MohammedSalahAfzal?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/></a>
-</p>
+- Explores student performance data to identify patterns and contributing factors.
+- **Tech stack:** Python, Pandas, Seaborn, Exploratory Data Analysis.
+- [View my repositories](https://github.com/MohammedSalahAfzal?tab=repositories)
 
 ---
 
@@ -164,53 +149,62 @@ Explore datasets such as Netflix, Airbnb, and student performance to discover tr
 
 <div align="center">
 
-<a href="https://github.com/MohammedSalahAfzal">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammedSalahAfzal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedSalahAfzal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<a href="https://github.com/MohammedSalahAfzal">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSalahAfzal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSalahAfzal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 
-<a href="https://github.com/MohammedSalahAfzal">
-<img src="https://streak-stats.demolab.com?user=MohammedSalahAfzal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
+<br/><br/>
 
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedSalahAfzal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+ 
 </div>
 
----
-
-## 🐍 Contribution Snake Animation
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MohammedSalahAfzal/MohammedSalahAfzal/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+[![Mohammed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedSalahAfzal&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity)](https://github.com/MohammedSalahAfzal)
 
 </div>
+
 
 ---
 
 ## 🎓 Education & Training
 
-- **B.E. Computer Science and Engineering** — ISL Engineering College, Osmania University, 2026
-- **Data Science Training** — TEKS Academy, Mehdipatnam, Hyderabad; expected completion December 2026
+- 🎓 **B.E. Computer Science and Engineering** — ISL Engineering College, Osmania University, 2026.
+- 📚 **Data Science Training** — TEKS Academy, Mehdipatnam, Hyderabad; expected completion December 2026.
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Currently Improving
+
+- [ ] Advanced SQL and analytical problem-solving.
+- [ ] Statistics and Exploratory Data Analysis.
+- [ ] Machine Learning algorithms and model evaluation.
+- [ ] NLP and Deep Learning applications.
+- [ ] Power BI dashboards and data storytelling.
+- [ ] Deployment and documentation of data science projects.
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohammed-salah-afzal-27860031a"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+### 💡 Turning Data Into Insights
 
-<a href="https://incredible-speculoos-6282ce.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analyze.+Visualize.+Innovate.;Keep+Learning+%7C+Keep+Building;Data+Driven.+Future+Focused." alt="Animated closing message"/>
 
-<a href="https://github.com/MohammedSalahAfzal"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+<br/><br/>
 
-<br/>
+<a href="https://github.com/MohammedSalahAfzal?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
+</a>
 
-### 💡 Learn continuously. Build meaningfully. Let data tell the story.
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:20c9b5,50:087e8b,100:071a24&height=120&section=footer" alt="Animated footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=120&section=footer&animation=twinkling" alt="Animated footer"/>
 
 </div>
