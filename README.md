@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/mohammed-salah-afzal-27860031a">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://mohammedsalahafzal.netlify.app">
+<a href=" https://incredible-speculoos-6282ce.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-136a72?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
