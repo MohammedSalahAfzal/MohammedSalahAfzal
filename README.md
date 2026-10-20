@@ -159,17 +159,9 @@ Hello! I'm **Mohammed Salah Afzal**, a Computer Science and Engineering graduate
 
 <br/><br/>
 
- 
-</div>
-
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-
-[![Mohammed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedSalahAfzal&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity)](https://github.com/MohammedSalahAfzal)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedSalahAfzal&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 
 </div>
-
 
 ---
 
