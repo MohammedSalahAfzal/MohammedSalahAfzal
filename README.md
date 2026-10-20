@@ -159,7 +159,14 @@ Hello! I'm **Mohammed Salah Afzal**, a Computer Science and Engineering graduate
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedSalahAfzal&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+ 
+</div>
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MohammedSalahAfzal/MohammedSalahAfzal/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
